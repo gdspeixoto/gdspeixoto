@@ -2,8 +2,8 @@
 
 <div align="center" style="height:180em; display: flex; width:80%">
   <a href="https://github.com/gdspeixoto">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gdspeixoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdspeixoto&langs_count=8&theme=dark">
+  <img height="200em" src="https://github-readme-stats-git-master-gdspeixoto.vercel.app/api?username=gdspeixoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="200em" src="https://github-readme-stats-git-master-gdspeixoto.vercel.app/api/top-langs/?username=gdspeixoto&langs_count=8&theme=dark">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=gdspeixoto&theme=dark">
 </div>
 <div style="display: inline_block"><br>
